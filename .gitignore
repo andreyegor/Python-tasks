@@ -1,2 +1,5 @@
 /things
 /.vscode
+.gitinner/
+.github/
+.gitignore
